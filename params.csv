@@ -1,0 +1,9 @@
+﻿parameter,value
+ran_seed,42
+cutoff,1
+n_of_biomarker,1
+kind_of_system,0
+n_of_boot,1000
+train_ratio,0.7
+FPR_rate,0.01
+TPR_rate,0.95
