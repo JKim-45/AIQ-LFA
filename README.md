@@ -1,4 +1,4 @@
-## AI-QLFA
+## AIQ-LFA
 R code for Early Quantitative Detection of Pancreatic Ductal Adenocarcinoma via an AI- and Quantum Dot Nanolens-powered Lateral Flow Assay
 
 ## Paper Title
