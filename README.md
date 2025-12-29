@@ -1,8 +1,8 @@
 ## AIQ-LFA
-R code for Early Quantitative Detection of Pancreatic Ductal Adenocarcinoma via an AI- and Quantum Dot Nanolens-powered Lateral Flow Assay
+R code for Early Quantitative Detection of Pancreatic Ductal Adenocarcinoma via an AI- and Quantum Dot Nanolens-powered Lateral Flow Assay: AIQ-LFA
 
 ## Paper Title
-Early Quantitative Detection of Pancreatic Ductal Adenocarcinoma via an AI- and Quantum Dot Nanolens-powered Lateral Flow Assay
+Early Quantitative Detection of Pancreatic Ductal Adenocarcinoma via an AI- and Quantum Dot Nanolens-powered Lateral Flow Assay: AIQ-LFA
 
 ## Authors
 Han-Joo Bae, Minsup Shin, Hyunjoo Lee, Jun-Sik Chu, Kwanghee Yoo, Sohyeon Jang, Yuna Youn, Jaehyun An, Jin-Hyeok Hwang, Jaehi Kim,* Jong-chan Lee,* Luke P. Lee,* and Bong-Hyun Jun*
@@ -12,7 +12,7 @@ How to use these codes:
 
 Code for statistical analysis and machine learning (ML code_for submission.R)
 
-## Raw data is in the '/data' folder, 'raw datas.xlsx' file.
+## Raw data is in the 'raw datas.xlsx' file.
 
 	stats 0 means sample from healthy control.
 	stats 1 means sample from PDAC patient (row 52 to 91 : early-stage PDAC, row 92 to 151 : late-stage PDAC)
@@ -31,7 +31,9 @@ Code for statistical analysis and machine learning (ML code_for submission.R)
 
 	Invalid value of parameters may cause error, please input valid parameters.
 
-## Run the codes at code ocean system.
+## Prior to run the code, you should install following packages; readxl, pROC, openxlsx, caret, and dplyr
+
+## Run the code after setting the parameters.
 
 ## When you run the code, then new folder will be created and data files will be generated in that folder;  
 
@@ -56,5 +58,3 @@ Code for statistical analysis and machine learning (ML code_for submission.R)
 	Parameters.xlsx : the parameter settings 
 
 
-
-## All packages are pre-installed and the environment is fully configured.
