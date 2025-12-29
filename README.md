@@ -31,7 +31,7 @@ Code for statistical analysis and machine learning (ML code_for submission.R)
 
 	Invalid value of parameters may cause error, please input valid parameters.
 
-## Prior to run the code, you should install following packages; readxl, pROC, openxlsx, caret, and dplyr
+## Prior to run the code, you should install following packages; readxl, pROC, openxlsx, caret, and dplyr.
 
 ## Run the code after setting the parameters.
 
